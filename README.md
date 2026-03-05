@@ -72,6 +72,42 @@ Example:
 ```
 nda_example.txt
 nda_example.expected.json
+
+## Server Requirement
+
+This regression test framework sends contract files to an audit API.
+The API must be running before executing the tests.
+
+By default the script expects the endpoint:
+
+http://localhost:8000/ask_file
+
+Example: running a local FastAPI / Uvicorn server
+
+```bash
+uvicorn main:app --host 127.0.0.1 --port 8000
+```
+
+Once the server is running, the regression suite can be executed with:
+
+```bash
+python run_regression_tests.py
+```
+
+If the API is hosted elsewhere, the endpoint can be configured using an environment variable:
+
+Linux / macOS
+
+```bash
+export AUDIT_API_URL=http://your-server/ask_file
+```
+
+Windows
+
+```bash
+set AUDIT_API_URL=http://your-server/ask_file
+```
+
 ```
 
 ## Purpose
