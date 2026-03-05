@@ -1,0 +1,9 @@
+{
+  "must_detect_all": ["survive", "terminate"],
+  "must_detect_any": [],
+  "must_not_detect": [],
+  "expected_severity": {
+    "structural inconsistency": "CRITICAL"
+  },
+  "max_issues": 8
+}

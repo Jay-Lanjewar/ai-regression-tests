@@ -1,0 +1,8 @@
+{
+  "must_detect": ["confidentiality obligations terminate", "expiration"],
+  "must_not_detect": ["unlimited indemnity"],
+  "expected_severity": {
+    "confidentiality": "CRITICAL"
+  },
+  "max_issues": 8
+}

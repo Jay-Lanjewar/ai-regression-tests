@@ -1,0 +1,6 @@
+{
+  "must_detect": [],
+  "must_not_detect": ["unlimited", "terminates upon expiration"],
+  "expected_severity": {},
+  "max_issues": 8
+}

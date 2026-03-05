@@ -1,0 +1,3 @@
+This Mutual Non-Disclosure Agreement (NDA) is entered into by Discloser and Recipient.
+Recipient shall indemnify and defend Discloser against third-party claims arising from Recipient's breach of confidentiality; the aggregate liability for this indemnity is capped at the fees paid under this Agreement and excludes indirect or consequential damages.
+Confidentiality obligations survive for three (3) years following disclosure.

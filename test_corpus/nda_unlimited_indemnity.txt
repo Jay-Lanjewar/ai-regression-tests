@@ -1,0 +1,3 @@
+THIS MUTUAL NDA ("Agreement") is between Discloser and Recipient.
+Recipient shall indemnify, defend, and hold harmless Discloser from any and all claims, damages, losses, and expenses arising from this Agreement, and such indemnity is unlimited with no cap on liability or damages.
+Limitation of liability is expressly disclaimed and does not cap this indemnity.

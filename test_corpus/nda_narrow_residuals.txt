@@ -1,0 +1,2 @@
+Residuals Clause: Recipient may use information retained in unaided memory after performing the services, but residuals expressly exclude trade secrets, source code, and any information marked as Confidential.
+Recipient will not deliberately memorize Confidential Information to create residuals, and will continue to protect Confidential Information under this Agreement.

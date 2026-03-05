@@ -1,0 +1,4 @@
+This Mutual Non-Disclosure Agreement is entered into by Discloser and Recipient.
+Each party shall keep Confidential Information in confidence and use it solely for the stated purpose; obligations survive for three years after disclosure.
+Each party will indemnify the other for third-party intellectual property claims arising from breach of this NDA, subject to an aggregate liability cap equal to the amounts paid under this Agreement and excluding indirect or consequential damages.
+Nothing herein grants licenses; equitable relief remains available for breach of confidentiality.

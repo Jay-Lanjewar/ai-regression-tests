@@ -1,0 +1,8 @@
+{
+  "must_detect": ["indemnify", "unlimited"],
+  "must_not_detect": ["confidentiality expiration"],
+  "expected_severity": {
+    "indemnification": "CRITICAL"
+  },
+  "max_issues": 8
+}

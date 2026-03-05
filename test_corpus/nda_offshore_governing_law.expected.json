@@ -1,0 +1,9 @@
+{
+  "must_detect_all": [],
+  "must_detect_any": ["governing law", "offshore", "foreign law", "singapore"],
+  "must_not_detect": ["unreasonable", "unconscionable", "unlimited liability"],
+  "expected_severity": {
+    "governing law": "HIGH"
+  },
+  "max_issues": 8
+}

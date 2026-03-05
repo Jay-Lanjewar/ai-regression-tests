@@ -1,0 +1,9 @@
+{
+  "must_detect_all": ["residuals", "exclude trade secrets"],
+  "must_detect_any": [],
+  "must_not_detect": ["deliberate memorization permitted", "unlimited"],
+  "expected_severity": {
+    "residuals": "HIGH"
+  },
+  "max_issues": 8
+}

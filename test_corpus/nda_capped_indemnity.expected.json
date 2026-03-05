@@ -1,0 +1,9 @@
+{
+  "must_detect_all": ["indemnify", "capped"],
+  "must_detect_any": ["liability cap", "cap at", "aggregate cap"],
+  "must_not_detect": ["unlimited", "no cap"],
+  "expected_severity": {
+    "indemnification": "HIGH"
+  },
+  "max_issues": 8
+}
